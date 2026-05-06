@@ -1,0 +1,122 @@
+main {
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
+.know-sec {
+    text-align: center;
+    margin-bottom: 44px;
+}
+
+.know-sec-title {
+    color: #001931;
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 16px;
+}
+
+.know-sec-title-des {
+    color: #627382;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* Knowledges */
+.knowledges {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 16px;
+    margin-bottom: 50px;
+}
+
+.knowledge {
+    /* background-color: #469165; */
+    text-align: center;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px 0px #0000000F;
+}
+
+.knowledge img {
+    background-color: #F95555;
+    padding: 10px;
+    border-radius: 50%;
+    margin-top: 55px;
+}
+
+.know-title {
+    color: #001931;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.know-des {
+    color: #627382;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.info-block {
+    display: block;
+}
+
+/* Knowledge-brain */
+.Knowledge-brain {
+    display: flex;
+    justify-content: ce;
+    align-items: center;
+    gap: 50px;
+}
+
+.Knowledge-brain h4 {
+    color: #30B868;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.Knowledge-brain h1 {
+    color: #001931;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.Knowledge-brain h1 span {
+    display: block;
+}
+
+.Knowledge-brain p span {
+    display: block;
+}
+
+.k-d {
+    margin-bottom: 40px;
+}
+
+/* Think Section */
+.think-sec {
+    text-align: center;
+    background-color: #F7F6F2;
+    padding: 80px 40px;
+    border-radius: 12px;
+    margin-top: 120px;
+}
+
+.think-sec h1 {
+    margin-bottom: 16px;
+}
+
+.think-sec p {
+    margin-bottom: 24px;
+}
+
+.think-sec button {
+    margin-bottom: 16px;
+}
+
+.think-sec p span {
+    display: block;
+}
+
+.think-sec h1 {
+    font-size: 40px;
+}
